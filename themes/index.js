@@ -462,7 +462,7 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
-pixel {
+pixel: {
   font-family: "Pixelify Sans" 
   title_color: "fc5e01",
   icon_color: "fc5e01",
